@@ -1,0 +1,59 @@
+	.body_container {
+	max-width: 975px;	
+	}
+
+	.container {
+	max-width: 975px;	
+	}
+
+	.header {
+	max-width: 975px;	
+	}
+
+	.body_container {
+	max-width: 975px;	
+	}
+
+	.body {
+		max-width: 975px;
+		height: auto;
+		border-top: 1px;
+		border-width: thin;
+		font-family: "Exo 2";
+		padding: 0px 30px 0px 90px;
+	}
+
+
+	.feature {
+		padding: 0em 0px 0px 170px;
+		font-family: "Exo 2";
+	}
+
+	.img-responsive {
+		padding: 0em 0px 0px 80px;
+		max-width: 975px;
+		height: auto;
+		font-family: "Exo 2";
+	}
+
+	.text {
+		font-family: "Exo 2";
+		padding: 0px 0px 0px 45px;
+	}
+
+	.text2 {
+	    padding: 0px 0px 0px 90px;
+	}
+
+
+	.media_text {
+		 padding: 0px 0px 0px 135px;
+	}
+
+	.health_text {
+		 padding: 0px 0px 0px 140px;
+	}
+
+	.nodes_text {
+		 padding: 0px 0px 0px 240px;
+	}
